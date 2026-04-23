@@ -26,3 +26,5 @@ An online e-commerce website built using PHP and MySQL to sell and showcase resi
 - Includes options to view, edit, or remove users.
 - Ensures proper control and security of the platform.
 ![image alt](https://github.com/GanyaPoojary/resin_art_ecommerce/blob/main/manage-user_resin.png)
+
+🔗GitHub: [https://github.com/GanyaPoojary/resin_art_ecommercee/]
